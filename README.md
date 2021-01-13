@@ -8,8 +8,8 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
 * [Breakout Game](https://github.com/tzuyingyeh/sc-projects/blob/main/stanCode_Projects/Breakout/breakout.py)
    * animation & game designing
 * [stanCodeshop](https://github.com/tzuyingyeh/sc-projects/blob/main/stanCode_Projects/stanCodeshop/stanCodoshop.py)
-   *image processing
+   * image processing
 * [Name Popularity Searching System](https://github.com/tzuyingyeh/sc-projects/blob/main/stanCode_Projects/Babynames/babygraphics.py)
-   *data structure
+   * data structure
 * [anagram](https://github.com/tzuyingyeh/sc-projects/blob/main/stanCode_Projects/Recursion/anagram.py)
-   *recursive functions
+   * recursive functions
